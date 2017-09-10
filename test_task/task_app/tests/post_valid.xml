@@ -1,0 +1,12 @@
+<posts>
+	 <post>
+		 <post_title>Пост из ХМЛ 1</post_title>
+		 <post_body>Пост для тестирования 1. Импортирован из ХМЛ</post_body>
+		 <post_published_time>2017-08-20 10:30:00</post_published_time>
+	 </post>
+	 <post>
+		 <post_title>Пост из ХМЛ 2</post_title>
+		 <post_body>Пост для тестирования 2. Импортирован из ХМЛ</post_body>
+		 <post_published_time>2017-08-21 10:30:00</post_published_time>
+	 </post>
+</posts>
